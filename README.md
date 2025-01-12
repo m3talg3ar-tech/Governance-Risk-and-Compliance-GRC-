@@ -1,1 +1,1 @@
-# Chapter1-GRC
+# Governance, risk, and compliance (GRC)
