@@ -1,6 +1,6 @@
 
 
-### Key Points:
+### Key Points
 
 #### 1. **Board of Directors Involvement:**
    - The document emphasizes that active involvement from the Board of Directors or highest-level leadership is essential for effective BCP.
